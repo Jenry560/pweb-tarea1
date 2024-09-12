@@ -1,0 +1,555 @@
+<!DOCTYPE html>
+
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0"
+    />
+
+    <title>Tarea 1</title>
+
+    <meta name="description" content="" />
+
+    <!-- Favicon -->
+    <link
+      rel="icon"
+      type="image/x-icon"
+      href="../../assets/img/favicon/favicon.ico"
+    />
+    <!-- Iconos -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+    />
+
+    <!-- Fuentes -->
+    <!-- Conexión previa a los dominios de Google Fonts para mejorar el rendimiento -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&ampdisplay=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Core CSS -->
+
+    <link rel="stylesheet" href="core.css" />
+
+    <link rel="stylesheet" href="demo.css" />
+  </head>
+
+  <body>
+    <!-- Layout wrapper -->
+    <div class="layout-wrapper layout-content-navbar">
+      <!-- Layout container -->
+
+      <div class="layout-container">
+        <!-- Menu -->
+        <aside class="layout-menu bg-menu-theme">
+          <div class="app-brand">
+            <img
+              src="https://dr1.com/wordpress/wp-content/uploads/2020/02/ITLA-2-logo-1024x515.png"
+            />
+          </div>
+
+          <ul class="menu-inner">
+            <li class="menu-item">
+              <a href="app-email.html" class="menu-link">
+                <i class="fa-solid fa-video"></i>
+                <div>Aprende Más</div>
+              </a>
+            </li>
+            <li class="menu-item">
+              <a href="app-chat.html" class="menu-link">
+                <i class="fa-solid fa-calculator"></i>
+                <div>Calculadora</div>
+              </a>
+            </li>
+            <li class="menu-item">
+              <a href="app-calendar.html" class="menu-link">
+                <i class="fa-solid fa-table"></i>
+                <div>Tabla de Multiplicar</div>
+              </a>
+            </li>
+            <li class="menu-item">
+              <a href="app-kanban.html" class="menu-link">
+                <i class="fa-solid fa-address-card"></i>
+                <div>Acerca de</div>
+              </a>
+            </li>
+          </ul>
+        </aside>
+        <!-- / Menu -->
+        <!-- Layout page -->
+        <div class="layout-page">
+          <!-- Navbar -->
+          <nav class="layout-navbar bg-navbar-theme">
+            <div class="navbar-nav">
+              <a
+                class="nav-item nav-link px-0 me-xl-4"
+                href="javascript:void(0)"
+              >
+                <i class="ti ti-menu-2 ti-md"></i>
+              </a>
+            </div>
+
+            <div class="nav-item">
+              Jenry Jose Sanchez 2023-1080
+              <i class="fa-solid fa-user"></i>
+            </div>
+          </nav>
+          <!-- / Navbar -->
+
+          <!-- Content wrapper -->
+          <div class="content-wrapper">
+            <!-- Content -->
+
+            <div class="container">
+              <!-- <div class="calculator">
+                <input
+                  type="text"
+                  class="calculator-screen"
+                  value="12"
+                  disabled
+                />
+                <div class="calculator-keys">
+                  <button type="button" class="operator" value="+">+</button>
+                  <button type="button" class="operator" value="-">-</button>
+                  <button type="button" class="operator" value="*">
+                    &times;
+                  </button>
+                  <button type="button" class="operator" value="/">
+                    &divide;
+                  </button>
+
+                  <button type="button" value="7">7</button>
+                  <button type="button" value="8">8</button>
+                  <button type="button" value="9">9</button>
+
+                  <button type="button" value="4">4</button>
+                  <button type="button" value="5">5</button>
+                  <button type="button" value="6">6</button>
+
+                  <button type="button" value="1">1</button>
+                  <button type="button" value="2">2</button>
+                  <button type="button" value="3">3</button>
+
+                  <button type="button" value="0">0</button>
+                  <button type="button" value=".">.</button>
+                  <button type="button" class="equal-sign" value="=">=</button>
+
+                  <button type="button" class="all-clear" value="all-clear">
+                    AC
+                  </button>
+                </div>
+              </div> -->
+              <!-- <div class="row">
+                <div class="card">
+                  <img
+                    src="https://img.youtube.com/vi/9bZkp7q19f0/maxresdefault.jpg"
+                    alt="Imagen de la card"
+                  />
+                  <div class="card-content">
+                    <h3>
+                      Este video trata sobre las mejores prácticas para
+                      programar en JavaScript.
+                    </h3>
+                    <p>' Muy útil para desarrolladores principiantes'.</p>
+                    <a
+                      href="https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+                      class="button"
+                      >Ver Video</a
+                    >
+                  </div>
+                </div>
+              </div> -->
+
+              <div class="card" style="margin: auto; min-width: 450px">
+                <img src="image.png" alt="Foto 2x2" class="img-2x2" />
+
+                <div class="card-content">
+                  <h2>Jenry Jose Sanchez Hodge</h2>
+                  <p>✉️Jenrydev@gmail.com</p>
+                  <p style="text-align: justify">
+                    Me gustaría dedicarme a la programación, especialmente
+                    enfocada en el desarrollo de software que tenga el poder de
+                    transformar vidas y solucionar problemas que afectan a
+                    muchas personas. Mi objetivo es crear herramientas que no
+                    solo resuelvan necesidades, sino que también aporten un
+                    valor significativo en el día a día de quienes las utilicen,
+                    generando un impacto positivo y duradero.
+                  </p>
+                  <a href="https://t.me/Jenry162" class="button">Telegram</a>
+                </div>
+              </div>
+
+              <!-- <div class="container">
+                <h1>Tabla de Multiplicar del 0 al 15</h1>
+                <table>
+                  <thead>
+                    <tr>
+                      <th>*</th>
+               
+                      <th>0</th>
+                      <th>1</th>
+                      <th>2</th>
+                      <th>3</th>
+                      <th>4</th>
+                      <th>5</th>
+                      <th>6</th>
+                      <th>7</th>
+                      <th>8</th>
+                      <th>9</th>
+                      <th>10</th>
+                      <th>11</th>
+                      <th>12</th>
+                      <th>13</th>
+                      <th>14</th>
+                      <th>15</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                  
+                    <tr>
+                      <th>0</th>
+                      <td>0</td>
+                      <td>0</td>
+                      <td>0</td>
+                      <td>0</td>
+                      <td>0</td>
+                      <td>0</td>
+                      <td>0</td>
+                      <td>0</td>
+                      <td>0</td>
+                      <td>0</td>
+                      <td>0</td>
+                      <td>0</td>
+                      <td>0</td>
+                      <td>0</td>
+                      <td>0</td>
+                    </tr>
+                    <tr>
+                      <th>1</th>
+                      <td>0</td>
+                      <td>1</td>
+                      <td>2</td>
+                      <td>3</td>
+                      <td>4</td>
+                      <td>5</td>
+                      <td>6</td>
+                      <td>7</td>
+                      <td>8</td>
+                      <td>9</td>
+                      <td>10</td>
+                      <td>11</td>
+                      <td>12</td>
+                      <td>13</td>
+                      <td>14</td>
+                      <td>15</td>
+                    </tr>
+                    <tr>
+                      <th>2</th>
+                      <td>0</td>
+                      <td>2</td>
+                      <td>4</td>
+                      <td>6</td>
+                      <td>8</td>
+                      <td>10</td>
+                      <td>12</td>
+                      <td>14</td>
+                      <td>16</td>
+                      <td>18</td>
+                      <td>20</td>
+                      <td>22</td>
+                      <td>24</td>
+                      <td>26</td>
+                      <td>28</td>
+                      <td>30</td>
+                    </tr>
+                    <tr>
+                      <th>3</th>
+                      <td>0</td>
+                      <td>3</td>
+                      <td>6</td>
+                      <td>9</td>
+                      <td>12</td>
+                      <td>15</td>
+                      <td>18</td>
+                      <td>21</td>
+                      <td>24</td>
+                      <td>27</td>
+                      <td>30</td>
+                      <td>33</td>
+                      <td>36</td>
+                      <td>39</td>
+                      <td>42</td>
+                      <td>45</td>
+                    </tr>
+                    <tr>
+                      <th>4</th>
+                      <td>0</td>
+                      <td>4</td>
+                      <td>8</td>
+                      <td>12</td>
+                      <td>16</td>
+                      <td>20</td>
+                      <td>24</td>
+                      <td>28</td>
+                      <td>32</td>
+                      <td>36</td>
+                      <td>40</td>
+                      <td>44</td>
+                      <td>48</td>
+                      <td>52</td>
+                      <td>56</td>
+                      <td>60</td>
+                    </tr>
+                    <tr>
+                      <th>5</th>
+                      <td>0</td>
+                      <td>5</td>
+                      <td>10</td>
+                      <td>15</td>
+                      <td>20</td>
+                      <td>25</td>
+                      <td>30</td>
+                      <td>35</td>
+                      <td>40</td>
+                      <td>45</td>
+                      <td>50</td>
+                      <td>55</td>
+                      <td>60</td>
+                      <td>65</td>
+                      <td>70</td>
+                      <td>75</td>
+                    </tr>
+                    <tr>
+                      <th>6</th>
+                      <td>0</td>
+                      <td>6</td>
+                      <td>12</td>
+                      <td>18</td>
+                      <td>24</td>
+                      <td>30</td>
+                      <td>36</td>
+                      <td>42</td>
+                      <td>48</td>
+                      <td>54</td>
+                      <td>60</td>
+                      <td>66</td>
+                      <td>72</td>
+                      <td>78</td>
+                      <td>84</td>
+                      <td>90</td>
+                    </tr>
+                    <tr>
+                      <th>7</th>
+                      <td>0</td>
+                      <td>7</td>
+                      <td>14</td>
+                      <td>21</td>
+                      <td>28</td>
+                      <td>35</td>
+                      <td>42</td>
+                      <td>49</td>
+                      <td>56</td>
+                      <td>63</td>
+                      <td>70</td>
+                      <td>77</td>
+                      <td>84</td>
+                      <td>91</td>
+                      <td>98</td>
+                      <td>105</td>
+                    </tr>
+                    <tr>
+                      <th>8</th>
+                      <td>0</td>
+                      <td>8</td>
+                      <td>16</td>
+                      <td>24</td>
+                      <td>32</td>
+                      <td>40</td>
+                      <td>48</td>
+                      <td>56</td>
+                      <td>64</td>
+                      <td>72</td>
+                      <td>80</td>
+                      <td>88</td>
+                      <td>96</td>
+                      <td>104</td>
+                      <td>112</td>
+                      <td>120</td>
+                    </tr>
+                    <tr>
+                      <th>9</th>
+                      <td>0</td>
+                      <td>9</td>
+                      <td>18</td>
+                      <td>27</td>
+                      <td>36</td>
+                      <td>45</td>
+                      <td>54</td>
+                      <td>63</td>
+                      <td>72</td>
+                      <td>81</td>
+                      <td>90</td>
+                      <td>99</td>
+                      <td>108</td>
+                      <td>117</td>
+                      <td>126</td>
+                      <td>135</td>
+                    </tr>
+                    <tr>
+                      <th>10</th>
+                      <td>0</td>
+                      <td>10</td>
+                      <td>20</td>
+                      <td>30</td>
+                      <td>40</td>
+                      <td>50</td>
+                      <td>60</td>
+                      <td>70</td>
+                      <td>80</td>
+                      <td>90</td>
+                      <td>100</td>
+                      <td>110</td>
+                      <td>120</td>
+                      <td>130</td>
+                      <td>140</td>
+                      <td>150</td>
+                    </tr>
+                    <tr>
+                      <th>11</th>
+                      <td>0</td>
+                      <td>11</td>
+                      <td>22</td>
+                      <td>33</td>
+                      <td>44</td>
+                      <td>55</td>
+                      <td>66</td>
+                      <td>77</td>
+                      <td>88</td>
+                      <td>99</td>
+                      <td>110</td>
+                      <td>121</td>
+                      <td>132</td>
+                      <td>143</td>
+                      <td>154</td>
+                      <td>165</td>
+                    </tr>
+                    <tr>
+                      <th>12</th>
+                      <td>0</td>
+                      <td>12</td>
+                      <td>24</td>
+                      <td>36</td>
+                      <td>48</td>
+                      <td>60</td>
+                      <td>72</td>
+                      <td>84</td>
+                      <td>96</td>
+                      <td>108</td>
+                      <td>120</td>
+                      <td>132</td>
+                      <td>144</td>
+                      <td>156</td>
+                      <td>168</td>
+                      <td>180</td>
+                    </tr>
+                    <tr>
+                      <th>13</th>
+                      <td>0</td>
+                      <td>13</td>
+                      <td>26</td>
+                      <td>39</td>
+                      <td>52</td>
+                      <td>65</td>
+                      <td>78</td>
+                      <td>91</td>
+                      <td>104</td>
+                      <td>117</td>
+                      <td>130</td>
+                      <td>143</td>
+                      <td>156</td>
+                      <td>169</td>
+                      <td>182</td>
+                      <td>195</td>
+                    </tr>
+                    <tr>
+                      <th>14</th>
+                      <td>0</td>
+                      <td>14</td>
+                      <td>28</td>
+                      <td>42</td>
+                      <td>56</td>
+                      <td>70</td>
+                      <td>84</td>
+                      <td>98</td>
+                      <td>112</td>
+                      <td>126</td>
+                      <td>140</td>
+                      <td>154</td>
+                      <td>168</td>
+                      <td>182</td>
+                      <td>196</td>
+                      <td>210</td>
+                    </tr>
+                    <tr>
+                      <th>15</th>
+                      <td>0</td>
+                      <td>15</td>
+                      <td>30</td>
+                      <td>45</td>
+                      <td>60</td>
+                      <td>75</td>
+                      <td>90</td>
+                      <td>105</td>
+                      <td>120</td>
+                      <td>135</td>
+                      <td>150</td>
+                      <td>165</td>
+                      <td>180</td>
+                      <td>195</td>
+                      <td>210</td>
+                      <td>225</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div> -->
+            </div>
+
+            <!-- Footer -->
+            <footer class="content-footer">
+              <div class="container-xxl">
+                <div
+                  class="footer-container d-flex align-items-center justify-content-between py-4 flex-md-row flex-column"
+                >
+                  <div class="text-body">
+                    © Periodo C-3
+                    <script>
+                      document.write(new Date().getFullYear());
+                    </script>
+                    Tarea 1 Programación Web
+                    <a
+                      href="https://adamix.net/web/"
+                      target="_blank"
+                      class="footer-link"
+                      >Amadís Suarez Genao</a
+                    >
+                  </div>
+                </div>
+              </div>
+            </footer>
+            <!-- / Footer -->
+          </div>
+          <!-- Content wrapper -->
+        </div>
+        <!-- / Layout page -->
+      </div>
+    </div>
+    <!-- / Layout wrapper -->
+  </body>
+</html>
