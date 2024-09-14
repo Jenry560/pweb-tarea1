@@ -27,3 +27,4 @@ D:\Deskop\Itla\Tarea 1 Programacion Web\Tarea1Pweb\obj\Debug\net8.0\refint\Tarea
 D:\Deskop\Itla\Tarea 1 Programacion Web\Tarea1Pweb\obj\Debug\net8.0\Tarea1Pweb.pdb
 D:\Deskop\Itla\Tarea 1 Programacion Web\Tarea1Pweb\obj\Debug\net8.0\Tarea1Pweb.genruntimeconfig.cache
 D:\Deskop\Itla\Tarea 1 Programacion Web\Tarea1Pweb\obj\Debug\net8.0\ref\Tarea1Pweb.dll
+D:\Deskop\Itla\Tarea 1 Programacion Web\Tarea1Pweb\obj\Debug\net8.0\Tarea1Pweb.sourcelink.json

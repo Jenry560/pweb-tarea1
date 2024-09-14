@@ -17,8 +17,24 @@
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
+      "Id": "D:\\Deskop\\Itla\\Tarea 1 Programacion Web\\Tarea1Pweb\\wwwroot\\core.css",
+      "PackagePath": "staticwebassets\\core.css"
+    },
+    {
+      "Id": "D:\\Deskop\\Itla\\Tarea 1 Programacion Web\\Tarea1Pweb\\wwwroot\\demo.css",
+      "PackagePath": "staticwebassets\\demo.css"
+    },
+    {
+      "Id": "D:\\Deskop\\Itla\\Tarea 1 Programacion Web\\Tarea1Pweb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
       "Id": "D:\\Deskop\\Itla\\Tarea 1 Programacion Web\\Tarea1Pweb\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\Deskop\\Itla\\Tarea 1 Programacion Web\\Tarea1Pweb\\wwwroot\\image.png",
+      "PackagePath": "staticwebassets\\image.png"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Tarea1Pweb.Microsoft.AspNetCore.StaticWebAssets.props",
