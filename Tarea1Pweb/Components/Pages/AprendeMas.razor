@@ -3,7 +3,7 @@
 @using Tarea1Pweb.Components.Clases
 <PageTitle>Aprende mas</PageTitle>
 
-<div class="row">
+<div class="row animation_content">
     @foreach (var video in videos)
     {
         <div class="card">
@@ -64,10 +64,5 @@
         }
     };
 
-    private int currentCount = 0;
-
-    private void IncrementCount()
-    {
-        currentCount++;
-    }
+    
 }

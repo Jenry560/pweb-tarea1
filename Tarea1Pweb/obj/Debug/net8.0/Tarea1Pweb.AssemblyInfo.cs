@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tarea1Pweb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37bfb6ed7bde28f21d6bdde94f97ce2e3942a95b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aeab435728865ad03171763c09c10e321d7bbb1f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tarea1Pweb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tarea1Pweb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
