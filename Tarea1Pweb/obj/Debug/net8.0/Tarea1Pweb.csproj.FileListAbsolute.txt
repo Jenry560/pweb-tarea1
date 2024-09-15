@@ -28,3 +28,30 @@ D:\Deskop\Itla\Tarea 1 Programacion Web\Tarea1Pweb\obj\Debug\net8.0\Tarea1Pweb.p
 D:\Deskop\Itla\Tarea 1 Programacion Web\Tarea1Pweb\obj\Debug\net8.0\Tarea1Pweb.genruntimeconfig.cache
 D:\Deskop\Itla\Tarea 1 Programacion Web\Tarea1Pweb\obj\Debug\net8.0\ref\Tarea1Pweb.dll
 D:\Deskop\Itla\Tarea 1 Programacion Web\Tarea1Pweb\obj\Debug\net8.0\Tarea1Pweb.sourcelink.json
+C:\Users\usuario\Desktop\trabajo\pweb-tarea1\Tarea1Pweb\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\usuario\Desktop\trabajo\pweb-tarea1\Tarea1Pweb\bin\Debug\net8.0\appsettings.json
+C:\Users\usuario\Desktop\trabajo\pweb-tarea1\Tarea1Pweb\bin\Debug\net8.0\Tarea1Pweb.staticwebassets.runtime.json
+C:\Users\usuario\Desktop\trabajo\pweb-tarea1\Tarea1Pweb\bin\Debug\net8.0\Tarea1Pweb.exe
+C:\Users\usuario\Desktop\trabajo\pweb-tarea1\Tarea1Pweb\bin\Debug\net8.0\Tarea1Pweb.deps.json
+C:\Users\usuario\Desktop\trabajo\pweb-tarea1\Tarea1Pweb\bin\Debug\net8.0\Tarea1Pweb.runtimeconfig.json
+C:\Users\usuario\Desktop\trabajo\pweb-tarea1\Tarea1Pweb\bin\Debug\net8.0\Tarea1Pweb.dll
+C:\Users\usuario\Desktop\trabajo\pweb-tarea1\Tarea1Pweb\bin\Debug\net8.0\Tarea1Pweb.pdb
+C:\Users\usuario\Desktop\trabajo\pweb-tarea1\Tarea1Pweb\obj\Debug\net8.0\Tarea1Pweb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\trabajo\pweb-tarea1\Tarea1Pweb\obj\Debug\net8.0\Tarea1Pweb.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\trabajo\pweb-tarea1\Tarea1Pweb\obj\Debug\net8.0\Tarea1Pweb.AssemblyInfo.cs
+C:\Users\usuario\Desktop\trabajo\pweb-tarea1\Tarea1Pweb\obj\Debug\net8.0\Tarea1Pweb.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\trabajo\pweb-tarea1\Tarea1Pweb\obj\Debug\net8.0\Tarea1Pweb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\usuario\Desktop\trabajo\pweb-tarea1\Tarea1Pweb\obj\Debug\net8.0\Tarea1Pweb.sourcelink.json
+C:\Users\usuario\Desktop\trabajo\pweb-tarea1\Tarea1Pweb\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\usuario\Desktop\trabajo\pweb-tarea1\Tarea1Pweb\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\usuario\Desktop\trabajo\pweb-tarea1\Tarea1Pweb\obj\Debug\net8.0\staticwebassets\msbuild.Tarea1Pweb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\usuario\Desktop\trabajo\pweb-tarea1\Tarea1Pweb\obj\Debug\net8.0\staticwebassets\msbuild.build.Tarea1Pweb.props
+C:\Users\usuario\Desktop\trabajo\pweb-tarea1\Tarea1Pweb\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Tarea1Pweb.props
+C:\Users\usuario\Desktop\trabajo\pweb-tarea1\Tarea1Pweb\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Tarea1Pweb.props
+C:\Users\usuario\Desktop\trabajo\pweb-tarea1\Tarea1Pweb\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\usuario\Desktop\trabajo\pweb-tarea1\Tarea1Pweb\obj\Debug\net8.0\scopedcss\bundle\Tarea1Pweb.styles.css
+C:\Users\usuario\Desktop\trabajo\pweb-tarea1\Tarea1Pweb\obj\Debug\net8.0\Tarea1Pweb.dll
+C:\Users\usuario\Desktop\trabajo\pweb-tarea1\Tarea1Pweb\obj\Debug\net8.0\refint\Tarea1Pweb.dll
+C:\Users\usuario\Desktop\trabajo\pweb-tarea1\Tarea1Pweb\obj\Debug\net8.0\Tarea1Pweb.pdb
+C:\Users\usuario\Desktop\trabajo\pweb-tarea1\Tarea1Pweb\obj\Debug\net8.0\Tarea1Pweb.genruntimeconfig.cache
+C:\Users\usuario\Desktop\trabajo\pweb-tarea1\Tarea1Pweb\obj\Debug\net8.0\ref\Tarea1Pweb.dll

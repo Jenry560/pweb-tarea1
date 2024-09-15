@@ -1,61 +1,27 @@
-﻿@* <div class="top-row ps-3 navbar navbar-dark">
-<div class="container-fluid">
-<a class="navbar-brand" href="">Tarea1Pweb</a>
-</div>
-</div>
+﻿<!-- Menu -->
+<aside class="layout-menu opened bg-menu-theme">
 
-<input type="checkbox" title="Navigation menu" class="navbar-toggler" />
-
-<div class="nav-scrollable" onclick="document.querySelector('.navbar-toggler').click()">
-<nav class="flex-column">
-<div class="nav-item px-3">
-<NavLink class="nav-link" href="" Match="NavLinkMatch.All">
-<span class="bi bi-house-door-fill-nav-menu" aria-hidden="true"></span> Home
-</NavLink>
-</div>
-
-<div class="nav-item px-3">
-<NavLink class="nav-link" href="counter">
-<span class="bi bi-plus-square-fill-nav-menu" aria-hidden="true"></span> Counter
-</NavLink>
-</div>
-
-<div class="nav-item px-3">
-<NavLink class="nav-link" href="weather">
-<span class="bi bi-list-nested-nav-menu" aria-hidden="true"></span> Weather
-</NavLink>
-</div>
-</nav>
-</div> *@
-<aside class="layout-menu bg-menu-theme">
-    <div class="app-brand">
+    <NavLink href="/" class="app-brand">
         <img src="https://dr1.com/wordpress/wp-content/uploads/2020/02/ITLA-2-logo-1024x515.png" />
-    </div>
+    </NavLink>
 
     <ul class="menu-inner">
-        <li class="menu-item">
-            <a href="app-email.html" class="menu-link">
-                <i class="fa-solid fa-video"></i>
-                <div>Aprende Más</div>
-            </a>
-        </li>
-        <li class="menu-item">
-            <a href="app-chat.html" class="menu-link">
-                <i class="fa-solid fa-calculator"></i>
-                <div>Calculadora</div>
-            </a>
-        </li>
-        <li class="menu-item">
-            <a href="app-calendar.html" class="menu-link">
-                <i class="fa-solid fa-table"></i>
-                <div>Tabla de Multiplicar</div>
-            </a>
-        </li>
-        <li class="menu-item">
-            <a href="app-kanban.html" class="menu-link">
-                <i class="fa-solid fa-address-card"></i>
-                <div>Acerca de</div>
-            </a>
-        </li>
+        <NavLink href="/aprende_mas" class="menu-item" ActiveClass="active">
+            <i class="fa-solid fa-video"></i>Aprende Más
+        </NavLink>
+
+        <NavLink href="/calculadora" class="menu-item" ActiveClass="active">
+            <i class="fa-solid fa-calculator"></i>
+            <div>Calculadora</div>
+        </NavLink>
+        <NavLink href="/tabla_multiplicar" class="menu-item" ActiveClass="active">
+            <i class="fa-solid fa-table"></i>
+            <div>Tabla de Multiplicar</div>
+        </NavLink>
+        <NavLink href="/acerca_de" class="menu-item" ActiveClass="active">
+            <i class="fa-solid fa-address-card"></i>
+            <div>Acerca de</div>
+        </NavLink>
     </ul>
 </aside>
+<!-- / Menu -->

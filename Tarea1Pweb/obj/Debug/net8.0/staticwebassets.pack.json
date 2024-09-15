@@ -1,39 +1,27 @@
 {
   "Files": [
     {
-      "Id": "D:\\Deskop\\Itla\\Tarea 1 Programacion Web\\Tarea1Pweb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Tarea1Pweb.bundle.scp.css",
-      "PackagePath": "staticwebassets\\Tarea1Pweb.bundle.scp.css"
+      "Id": "C:\\Users\\usuario\\Desktop\\trabajo\\pweb-tarea1\\Tarea1Pweb\\wwwroot\\bienvenida.png",
+      "PackagePath": "staticwebassets\\bienvenida.png"
     },
     {
-      "Id": "D:\\Deskop\\Itla\\Tarea 1 Programacion Web\\Tarea1Pweb\\wwwroot\\app.css",
-      "PackagePath": "staticwebassets\\app.css"
-    },
-    {
-      "Id": "D:\\Deskop\\Itla\\Tarea 1 Programacion Web\\Tarea1Pweb\\wwwroot\\bootstrap\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
-    },
-    {
-      "Id": "D:\\Deskop\\Itla\\Tarea 1 Programacion Web\\Tarea1Pweb\\wwwroot\\bootstrap\\bootstrap.min.css.map",
-      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
-    },
-    {
-      "Id": "D:\\Deskop\\Itla\\Tarea 1 Programacion Web\\Tarea1Pweb\\wwwroot\\core.css",
+      "Id": "C:\\Users\\usuario\\Desktop\\trabajo\\pweb-tarea1\\Tarea1Pweb\\wwwroot\\core.css",
       "PackagePath": "staticwebassets\\core.css"
     },
     {
-      "Id": "D:\\Deskop\\Itla\\Tarea 1 Programacion Web\\Tarea1Pweb\\wwwroot\\demo.css",
+      "Id": "C:\\Users\\usuario\\Desktop\\trabajo\\pweb-tarea1\\Tarea1Pweb\\wwwroot\\demo.css",
       "PackagePath": "staticwebassets\\demo.css"
     },
     {
-      "Id": "D:\\Deskop\\Itla\\Tarea 1 Programacion Web\\Tarea1Pweb\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\usuario\\Desktop\\trabajo\\pweb-tarea1\\Tarea1Pweb\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\Deskop\\Itla\\Tarea 1 Programacion Web\\Tarea1Pweb\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\usuario\\Desktop\\trabajo\\pweb-tarea1\\Tarea1Pweb\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "D:\\Deskop\\Itla\\Tarea 1 Programacion Web\\Tarea1Pweb\\wwwroot\\image.png",
+      "Id": "C:\\Users\\usuario\\Desktop\\trabajo\\pweb-tarea1\\Tarea1Pweb\\wwwroot\\image.png",
       "PackagePath": "staticwebassets\\image.png"
     },
     {
